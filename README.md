@@ -1,11 +1,3 @@
-# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/SheLearningCode/simplefolio?color=blue)](https://github.com/SheLearningCode/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/SheLearningCode/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/SheLearningCode/simplefolio)
-
-## A minimal portfolio template for Developers!
-
-<h2 align="center">
-  <img src="https://github.com/SheLearningCode/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
-  <br>
-</h2>
 
 ## Features
 
@@ -18,18 +10,7 @@
 ⚡️ Well organized documentation
 
 
-
----
-
-## Why do you need a portfolio? ☝️
-
-- Professional way to showcase your work
-- Increases your visibility and online presence
-- Shows you’re more than just a resume
-
 ## Getting Started 🚀
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites 📋
 
@@ -51,14 +32,14 @@ yarn@v1.22.10 or higher
 
 ## How To Use 🔧
 
-From your command line, first clone Simplefolio:
+From your command line, first clone the repo:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/cobiwave/simplefolio
+$ git clone https://github.com/SheLearningCode/kristina-maksimovic.git
 
 # Move into the repository
-$ cd simplefolio
+$ cd kristina-maksimovic
 
 # Remove the current origin repository
 $ git remote remove origin
@@ -98,7 +79,7 @@ If your run into issues installing the dependencies with NPM, use this below com
 $ sudo npm install --unsafe-perm=true --allow-root
 ```
 
-Once your server has started, go to this url `http://localhost:1234/` to see the portfolio locally. It should look like the below screenshot.
+Once your server has started, go to this url `http://localhost:1234/` to see the portfolio locally. 
 
 
 ### Step 2 - STYLES
@@ -107,19 +88,6 @@ Change the color theme of the website - (choose 2 colors to create a gradient)
 
 Go to `/src/sass/abstracts/_variables.scss` and only change the values for this variables `$main-color` and `$secondary-color` with your prefered HEX color.
 If you want to get some gradients inspiration I highly recommend you to check this website [UI Gradient](https://uigradients.com/#BrightVault)
-
-```scss
-// Default values
-$main-color: #02aab0;
-$secondary-color: #00cdac;
-```
-
----
-
-## Deployment 📦
-
-Once you finish your setup. You need to put your website online!
-
 
 ## Technologies used 🛠️
 
