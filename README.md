@@ -11,6 +11,7 @@
 
 
 ## Getting Started 🚀
+lets figure out what you need to make this you own portfolio, feel free to fork and commit.
 
 ### Prerequisites 📋
 
